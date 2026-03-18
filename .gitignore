@@ -7,3 +7,12 @@ dist/
 build/
 *.egg-info/
 .DS_Store
+
+# Firebase / Node
+functions/node_modules/
+functions/lib/
+functions/.env
+*.local
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
